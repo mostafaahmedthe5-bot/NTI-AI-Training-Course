@@ -27,9 +27,17 @@ This repository documents the hands-on practical applications completed during t
 
 ##  Deployed Applications & Live Links
 
-* 📱 **SpendWise AI (Final Capstone Project Demo):** [Launch Live App](https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true)
-*  **Humanize Web Application:** [Launch Live Web App](https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app)
-*  **Teachable Machine Image Classifier Model:** [Test Model Link](https://teachablemachine.withgoogle.com/models/wI0PofOuT/)
+**Approved Project Links List:**
+
+* **1. Image Classification Model (Task 04 - Teachable Machine):**
+[https://teachablemachine.withgoogle.com/models/wI0PofOuT/](https://teachablemachine.withgoogle.com/models/wI0PofOuT/)
+* **2. Humanize Studio Web App (Task 07):**
+* **AI Studio Link:** [https://ai.studio/apps/8456f3f7-e857-4206-97ef-bec7a4652c59?fullscreenApplet=true](https://ai.studio/apps/8456f3f7-e857-4206-97ef-bec7a4652c59?fullscreenApplet=true)
+* **Live App Link (Cloud Run):** [https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app](https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app)
+
+
+* **3. Final Capstone Project (Task 08 - SpendWise AI):**
+[https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true](https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true)
 
 ---
 
@@ -40,15 +48,6 @@ This repository documents the hands-on practical applications completed during t
 * **Data Analytics:** Excel, Data Inspection & Cleaning Prompts, E-commerce KPI Analytics.
 * **Web & UI Frameworks:** Modern Responsive UI, AI Studio Web App, Humanize Studio.
 * **Documentation & Version Control:** Markdown, GitHub.
-
----
-### Verification of Links (Confirmed Links)
-
-All original links extracted directly from the provided documents have been included without inventing any URLs:
-
-* **SpendWise AI Live Demo:** [https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true](https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true)
-* **Humanize Studio Live App:** [https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app](https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app)
-* **Teachable Machine Model:** [https://teachablemachine.withgoogle.com/models/wI0PofOuT/](https://teachablemachine.withgoogle.com/models/wI0PofOuT/)
 
 ---
 
