@@ -12,7 +12,7 @@ This repository documents the hands-on practical applications completed during t
 
 ##  Table of Contents & Structure
 
-| Module / Task | Focus Area | Core Deliverables & Technologies | Direct Document Link |
+| Module / Task | Focus Area | Core Deliverables & Technologies |
 | :--- | :--- | :--- | :--- |
 | **01. AI Prompting with DeepSeek** | Prompt Engineering | 5 Domain Prompt Strategies (Education, Health, Law, Marketing, Projects) |
 | **02. Content Enhancement** | Content & Marketing AI | Educational Content Analysis, Poster Redesign & ChatGPT Refinement | 
