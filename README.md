@@ -1,16 +1,16 @@
-# 🚀 NTI AI Training Course Repository
+#  NTI AI Training Course Repository
 
 Welcome to the official repository for the **National Telecommunication Institute (NTI) AI Training Program**. This repository contains a complete portfolio of tasks, practical assignments, prompt engineering workflows, machine learning models, and the final capstone project.
 
 ---
 
-## 📌 Repository Overview
+##  Repository Overview
 
 This repository documents the hands-on practical applications completed during the NTI AI Training track, covering generative AI tools, prompt engineering, custom AI agents, computer vision, e-commerce data analytics, study workflow automation, web application development, and personal finance AI solutions.
 
 ---
 
-## 🗂️ Table of Contents & Structure
+##  Table of Contents & Structure
 
 | Module / Task | Focus Area | Core Deliverables & Technologies | Direct Document Link |
 | :--- | :--- | :--- | :--- |
@@ -25,15 +25,15 @@ This repository documents the hands-on practical applications completed during t
 
 ---
 
-## 🌐 Deployed Applications & Live Links
+##  Deployed Applications & Live Links
 
 * 📱 **SpendWise AI (Final Capstone Project Demo):** [Launch Live App](https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true)
-* ✍️ **Humanize Web Application:** [Launch Live Web App](https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app)
-* 👁️ **Teachable Machine Image Classifier Model:** [Test Model Link](https://teachablemachine.withgoogle.com/models/wI0PofOuT/)
+*  **Humanize Web Application:** [Launch Live Web App](https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app)
+*  **Teachable Machine Image Classifier Model:** [Test Model Link](https://teachablemachine.withgoogle.com/models/wI0PofOuT/)
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Generative AI & LLMs:** DeepSeek, ChatGPT (GPT-4o), Google Gemini, NotebookLM, Google Gems.
 * **Computer Vision & ML:** Google Teachable Machine.
