@@ -30,11 +30,11 @@ This repository documents the hands-on practical applications completed during t
 **Approved Project Links List:**
 
 
-* ** Humanize Studio Web App (Task 07):**
-* **AI Studio Link:** [https://ai.studio/apps/8456f3f7-e857-4206-97ef-bec7a4652c59?fullscreenApplet=true](https://ai.studio/apps/8456f3f7-e857-4206-97ef-bec7a4652c59?fullscreenApplet=true)
+Humanize Studio Web App (Task 07):
+AI Studio Link: [https://ai.studio/apps/8456f3f7-e857-4206-97ef-bec7a4652c59?fullscreenApplet=true](https://ai.studio/apps/8456f3f7-e857-4206-97ef-bec7a4652c59?fullscreenApplet=true)
 
 
-* ** Final Capstone Project (Task 08 - SpendWise AI):**
+   Final Capstone Project (Task 08 - SpendWise AI):
 [https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true](https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e331ab2382?showAssistant=true&showPreview=true&fullscreenApplet=true)
 
 ---
