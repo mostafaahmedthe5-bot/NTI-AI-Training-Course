@@ -42,6 +42,15 @@ This repository documents the hands-on practical applications completed during t
 * **Documentation & Version Control:** Markdown, GitHub.
 
 ---
+### Verification of Links (Confirmed Links)
+
+All original links extracted directly from the provided documents have been included without inventing any URLs:
+
+* **SpendWise AI Live Demo:** [https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true](https://aistudio.google.com/apps/887ed071-2eb6-4a55-8800-f4e33lab2382?showAssistant=true&showPreview=true&fullscreenApplet=true)
+* **Humanize Studio Live App:** [https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app](https://ais-pre-14ai6abwl7mcm2bocs7ijs-189670119208.europe-west2.run.app)
+* **Teachable Machine Model:** [https://teachablemachine.withgoogle.com/models/wI0PofOuT/](https://teachablemachine.withgoogle.com/models/wI0PofOuT/)
+
+---
 
 ## 👤 Author & Contact Information
 * **Developer:** Mostafa Ahmed (Mostafa Elshorbagy)
