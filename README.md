@@ -14,14 +14,14 @@ This repository documents the hands-on practical applications completed during t
 
 | Module / Task | Focus Area | Core Deliverables & Technologies | Direct Document Link |
 | :--- | :--- | :--- | :--- |
-| **01. AI Prompting with DeepSeek** | Prompt Engineering | 5 Domain Prompt Strategies (Education, Health, Law, Marketing, Projects) | [View Task 01](./01-AI-Prompting-DeepSeek/README.md) |
-| **02. Content Enhancement** | Content & Marketing AI | Educational Content Analysis, Poster Redesign & ChatGPT Refinement | [View Task 02](./02-Content-Enhancement-ChatGPT/README.md) |
-| **03. Custom Gem Creation** | AI Agents & Personalization | Daily Study & Productivity Assistant Gem Instructions & Schedule Test | [View Task 03](./03-Custom-Gem-Creation/README.md) |
-| **04. Image Classification** | Computer Vision & ML | Teachable Machine 3-Class Model (`book`, `mug`, `phone`) & Accuracy Report | [View Task 04](./04-Image-Classification-Teachable-Machine/README.md) |
-| **05. TechStore Analytics** | Data Cleaning & Business KPIs | 9-Step AI Prompt Workflow, 58 Clean Records Analysis & Executive Decision | [View Task 05](./05-Data-Analysis-TechStore-KPIs/README.md) |
-| **06. NotebookLM Exam Cram** | AI Study Workflows | Automated Exam Prep using Video & PDF Sources (Quiz Score: 9/10) | [View Task 06](./06-NotebookLM-Exam-Prep/README.md) |
-| **07. Humanize Web App** | Web App Development | AI Content Formatter Web Application & Production UX Architecture | [View Task 07](./07-Humanize-Web-App/README.md) |
-| **08. SpendWise AI (Capstone)** | Smart Financial Management | AI Personal Finance Web App with Gemini Insights & Budget Control | [View Task 08](./08-Final-Project-SpendWise-AI/README.md) |
+| **01. AI Prompting with DeepSeek** | Prompt Engineering | 5 Domain Prompt Strategies (Education, Health, Law, Marketing, Projects) |
+| **02. Content Enhancement** | Content & Marketing AI | Educational Content Analysis, Poster Redesign & ChatGPT Refinement | 
+| **03. Custom Gem Creation** | AI Agents & Personalization | Daily Study & Productivity Assistant Gem Instructions & Schedule Test | 
+| **04. Image Classification** | Computer Vision & ML | Teachable Machine 3-Class Model (`book`, `mug`, `phone`) & Accuracy Report |
+| **05. TechStore Analytics** | Data Cleaning & Business KPIs | 9-Step AI Prompt Workflow, 58 Clean Records Analysis & Executive Decision | 
+| **06. NotebookLM Exam Cram** | AI Study Workflows | Automated Exam Prep using Video & PDF Sources (Quiz Score: 9/10) |
+| **07. Humanize Web App** | Web App Development | AI Content Formatter Web Application & Production UX Architecture | 
+| **08. SpendWise AI (Capstone)** | Smart Financial Management | AI Personal Finance Web App with Gemini Insights & Budget Control | 
 
 ---
 
