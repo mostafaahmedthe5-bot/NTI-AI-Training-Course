@@ -12,16 +12,16 @@ This repository documents the hands-on practical applications completed during t
 
 ##  Table of Contents & Structure
 
-| Module / Task | Focus Area | Core Deliverables & Technologies |
-| :--- | :--- | :--- | :--- |
-| **01. AI Prompting with DeepSeek** | Prompt Engineering | 5 Domain Prompt Strategies (Education, Health, Law, Marketing, Projects) |
-| **02. Content Enhancement** | Content & Marketing AI | Educational Content Analysis, Poster Redesign & ChatGPT Refinement | 
-| **03. Custom Gem Creation** | AI Agents & Personalization | Daily Study & Productivity Assistant Gem Instructions & Schedule Test | 
-| **04. Image Classification** | Computer Vision & ML | Teachable Machine 3-Class Model (`book`, `mug`, `phone`) & Accuracy Report |
-| **05. TechStore Analytics** | Data Cleaning & Business KPIs | 9-Step AI Prompt Workflow, 58 Clean Records Analysis & Executive Decision | 
-| **06. NotebookLM Exam Cram** | AI Study Workflows | Automated Exam Prep using Video & PDF Sources (Quiz Score: 9/10) |
-| **07. Humanize Web App** | Web App Development | AI Content Formatter Web Application & Production UX Architecture | 
-| **08. SpendWise AI (Capstone)** | Smart Financial Management | AI Personal Finance Web App with Gemini Insights & Budget Control | 
+| Module / Task                            | Focus Area                    | Key Deliverables                                                           |
+| ---------------------------------------- | ----------------------------- | -------------------------------------------------------------------------- |
+| **01. Prompt Engineering with DeepSeek** | Prompt Engineering            | 5 Domain Prompt Strategies (Education, Health, Law, Marketing, Projects)   |
+| **02. Content Enhancement with ChatGPT** | Content & Marketing AI        | Educational Content Analysis, Poster Redesign & Content Refinement         |
+| **03. Custom Gem Development**           | AI Agents & Personalization   | Daily Study & Productivity Assistant Gem Instructions & Schedule Test      |
+| **04. Image Classification**             | Computer Vision & ML          | Teachable Machine 3-Class Model (`book`, `mug`, `phone`) & Accuracy Report |
+| **05. TechStore Analytics**              | Data Cleaning & Business KPIs | 9-Step AI Prompt Workflow, 58 Clean Records Analysis & Executive Insights  |
+| **06. Exam Preparation with NotebookLM** | AI Study Workflows            | Automated Exam Preparation Using Video & PDF Sources (Quiz Score: 9/10)    |
+| **07. AI Content Formatter Web App**     | Web App Development           | AI Content Formatting Web Application & User Experience Design             |
+| **08. SpendWise AI (Capstone)**          | Personal Finance Management   | AI-Powered Personal Finance Web App with Gemini Insights & Budget Control  |
 
 ---
 
